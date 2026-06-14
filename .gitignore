@@ -23,3 +23,32 @@ go.work.sum
 
 # env file
 .env
+
+# ===== Agent/Personal (do not commit) =====
+.agents/
+.openclaw/
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+memory/
+SOUL.md
+TOOLS.md
+USER.md
+
+# ===== Sensitive =====
+v2rayn-config.txt
+
+# ===== Binaries =====
+ignite
+
+# ===== Duplicate nested repo =====
+aichain/
+
+# ===== Local databases =====
+data/
+
+# ===== Large generated images (not source) =====
+page1-v2-preview.png
+page2-preview.png
+test-image-2.png
